@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/usr/bin/wine "C:/Program Files/Tencent/QQNT/QQ.exe" --disable-gpu
